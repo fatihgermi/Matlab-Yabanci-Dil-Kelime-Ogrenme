@@ -1,1 +1,1 @@
-# Matlab-Yabanc-Dil-Kelime-Ogrenme
+# Matlab-Yabanci-Dil-Kelime-Ogrenme
